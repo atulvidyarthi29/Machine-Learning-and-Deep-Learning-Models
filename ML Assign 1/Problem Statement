@@ -1,0 +1,6 @@
+Assignment-1 Problem Statement:
+Implement K-NN classifier for the following datasets. 
+Find the best K value and p value for the Minkowski distance metric as discussed in class (using r fold cross validation; you are free to choose the r value). 
+TODO: Correct the code
+
+

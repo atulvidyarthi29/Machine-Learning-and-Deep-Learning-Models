@@ -1,0 +1,18 @@
+2(a) Linear regression: 
+Choose 200 random patterns from the
+Yacht Hydrodynamics Data Set 
+https://archive.ics.uci.edu/ml/datasets/Yacht+Hydrodynamics
+for training, remaining for testing.
+
+Apply linear regression (using gradient descent), report training and test errors.
+
+2(b) Perceptron (with  linearly not seperable data; using sum of squared error minimization as discussed in the class):
+
+use the Iris data set at 
+https://archive.ics.uci.edu/ml/datasets/iris
+that belongs to the two classes, viz., Versicolor and Virginica classes (which are known to be not linearly separable). 
+
+Use 70 randomly chosen patterns for training and 30 randomly chosen patterns for testing.
+Apply perceptron (linear discriminant, using gradient descent over the criterion that is sum of squared errors (as discussed in the class) ), and report training and test errors.
+
+

@@ -1,0 +1,7 @@
+1. Train a 3 layer Multi-layer Perceptron (one input layer, one hidden layer and one output layer). Hidden layer neurons can vary (we call the number of hidden layer neurons n) from 5 to 15. Use the sigmoid function (activation function) as described in the classroom. And consider learning rate to be 0.001.
+
+
+2.  Give the results (classification accuracy) on the test set for various n values. Plot your results: X-axis = n (number of hidden layer neurons), Y-axis = classification accuracy. 
+
+3. You have to use two loss functions, one for each experiment. The loss functions are Sum of Squared Deviation (SSD) loss and Cross-entropy loss.
+ 
